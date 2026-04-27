@@ -1,6 +1,8 @@
 # On-line-Game-Case
 This case containes the key metrics analysis of the on-line game including financial customer commitment indicators. It has been executed by means of SQL and Excel as post-processing and visualization tool.
 
+ПРОЕКТ: АНАЛИЗ ПОЛЬЗОВАТЕЛЬСКОЙ АКТИВНОСТИ И МОНЕТАРНЫХ ПОКАЗАТЕЛЕЙ ON-LINE ИГРЫ
+
 Цель проекта: провести анализ ключевых метрик on-line игры: оценить динамику пользовательской базы, активность игроков, финансовые показатели и показатели вирусного роста, оценить влияние маркетинговых акций на финансовые результаты.
 
 Что cделала:
